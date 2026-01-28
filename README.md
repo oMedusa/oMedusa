@@ -1,7 +1,7 @@
 ![hornet](./4d19b2f5c80061e94c7a9bc98755fbc0.gif)
 
 ```
-curl -X GET https://github.com/api/whois?profile=neigeuses
+curl -X GET https://github.com/api/whois?profile=itsbloom
 ```
 
 ```json
