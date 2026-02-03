@@ -1,21 +1,18 @@
-![hornet](./4d19b2f5c80061e94c7a9bc98755fbc0.gif)
+# Hi there, I'm Medusa! 🐍
 
-```
-curl -X GET https://github.com/api/whois?profile=oMedusa
-```
+I'm a passionate developer and tech explorer who loves experimenting with code, building tools, and diving into new technologies.
 
-```json
-{	
-    "profile": {
-        "name": "Charlotte",
-        "age": "20",
-        "pronouns": "She",
-        "country": "France"
-    }	
-}
-```
+## About Me
+- 💻 Languages & Tech: Python, C, Java, JavaScript, React, Linux
+- ⚡ Interests: Open-source projects, bots, automation, cybersecurity
+- 🌱 Always learning and exploring new ideas
+- 🎮 Fun fact: I like building small projects that are a bit weird or experimental
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=oMedusa&theme=tokyonight)
+## My GitHub
+Here you'll find some of my personal projects, experiments, and open-source contributions. Feel free to explore and reach out if something catches your eye!
 
----
+## Contact
 [![Discord Presence](https://lanyard.kyrie25.dev/api/953256335854678067?theme=dark&showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.3)%20blur(2px)%20blur(2px)&idleMessage=Probably%20doing%20something%20else...)](https://discord.com/users/953256335854678067?theme=dark&showBanner=true&waveColor=transparent&waveSpotifyColor=transparent&bannerFilter=brightness(0.3)%20blur(2px)%20blur(2px)&idleMessage=Probably%20doing%20something%20else...)
+
+[Mails](charlotte@auri-os.org)
+
